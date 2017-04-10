@@ -11,7 +11,7 @@ import android.view.View;
 
 /**
  * description: 自定义表盘
- * autour: qiaojingfei
+ * author: qiaojingfei
  * date: 2017/4/6 下午3:21
  */
 public class ClockView extends View {
